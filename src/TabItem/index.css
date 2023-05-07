@@ -1,0 +1,22 @@
+.tab {
+  color: #ffffff;
+  background-color: transparent;
+  border: none;
+}
+.active-tab {
+  color: #fec653;
+  border-bottom: 2px solid #fec653;
+  background-color: transparent;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+}
+.tab-name {
+  font-size: 20px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.tab-button {
+  background-color: transparent;
+  border: none;
+}

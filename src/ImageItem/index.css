@@ -1,0 +1,11 @@
+.image-list {
+  background-color: transparent;
+}
+.image-button {
+  border: none;
+  background-color: transparent;
+}
+.image {
+  height: 80px;
+  width: 80px;
+}
